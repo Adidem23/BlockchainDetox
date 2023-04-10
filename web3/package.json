@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "it": "^1.1.1",
+    "solc": "^0.8.19",
+    "web3": "^1.8.2",
+    "web3.js-browser": "^0.2.0"
+  }
+}
